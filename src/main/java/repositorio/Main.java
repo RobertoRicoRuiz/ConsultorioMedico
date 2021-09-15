@@ -14,7 +14,9 @@ public class Main {
     public static void main(String[] args) {
         
         System.out.println("Buenas Noches compañeros de Consultorio Médico Virtual");
-        System.out.println("Bienvenidos al repositorio!!");        
+        System.out.println("Bienvenidos al repositorio!!");  
+        System.out.println("Buenas Noches compañeros de Consultorio Médico Virtual");
+        System.out.println("Este es un mensaje escrito el 15 de Septiembre para validar el repositorio!!");  
                 
     }
 }
